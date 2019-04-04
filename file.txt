@@ -1,0 +1,18 @@
+int main(){
+	int a;
+	int b;
+	int c;
+	if(a==b){
+		int a;
+		if(c==b){
+			int a;
+			char a;
+		}
+	}else if(a==b){
+		int d;
+		int x;
+	}else{
+		int c;
+
+	}
+}
