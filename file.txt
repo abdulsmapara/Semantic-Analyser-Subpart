@@ -3,16 +3,35 @@ int main(){
 	int b;
 	int c;
 	if(a==b){
-		int a;
 		if(c==b){
-			int a;
-			char a;
+			p=b+c;
 		}
-	}else if(a==b){
+		if(x==y){
+			int p;
+		}
+		
+		if(x==y){
+			char c;
+			int d;
+			if(d==e){
+				int f;
+			}
+		}else if(p==q){
+			x=q;
+		}
+		char c;
+	}
+	char a;
+	if(a==s){
+		x=y;
+	}
+	else if(p==b){
 		int d;
 		int x;
+		char d;
 	}else{
 		int c;
 
 	}
+	char a;
 }
