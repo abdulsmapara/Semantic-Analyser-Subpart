@@ -1,0 +1,10 @@
+int main(){
+	int a;
+	int b;
+	if(a==b){
+		c=d+2;
+		int x;
+		char x;
+	}
+	int a;
+}
